@@ -1,0 +1,13 @@
+# requirements.txt
+
+pandas
+numpy
+geopandas
+fiona
+scikit-learn
+xgboost
+lightgbm
+catboost
+mlflow
+zenml
+

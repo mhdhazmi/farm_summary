@@ -1,0 +1,11 @@
+joblib==1.4.2
+jsonschema==4.23.0
+jsonschema-specifications==2023.12.1
+numpy==2.0.1
+pandas==2.2.2
+pydeck==0.9.1
+scikit-learn==1.5.1
+scipy==1.14.0
+streamlit==1.36.0
+threadpoolctl==3.5.0
+xgboost==2.1.0
