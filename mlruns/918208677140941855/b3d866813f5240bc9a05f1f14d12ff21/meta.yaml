@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moealhazmi/farms_latest_claude/farm_summary/mlruns/918208677140941855/b3d866813f5240bc9a05f1f14d12ff21/artifacts
+end_time: 1727005154243
+entry_point_name: ''
+experiment_id: '918208677140941855'
+lifecycle_stage: active
+run_id: b3d866813f5240bc9a05f1f14d12ff21
+run_name: Stacking_Lasso
+run_uuid: b3d866813f5240bc9a05f1f14d12ff21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727005136658
+status: 3
+tags: []
+user_id: moealhazmi

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moealhazmi/farms_latest_claude/farm_summary/mlruns/918208677140941855/28d127e212b647129dc2ef19da956555/artifacts
+end_time: 1727005372567
+entry_point_name: ''
+experiment_id: '918208677140941855'
+lifecycle_stage: active
+run_id: 28d127e212b647129dc2ef19da956555
+run_name: Cross_Validation_Scoring
+run_uuid: 28d127e212b647129dc2ef19da956555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727005173460
+status: 3
+tags: []
+user_id: moealhazmi

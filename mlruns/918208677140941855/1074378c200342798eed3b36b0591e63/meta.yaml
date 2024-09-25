@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moealhazmi/farms_latest_claude/farm_summary/mlruns/918208677140941855/1074378c200342798eed3b36b0591e63/artifacts
+end_time: 1727002929046
+entry_point_name: ''
+experiment_id: '918208677140941855'
+lifecycle_stage: active
+run_id: 1074378c200342798eed3b36b0591e63
+run_name: LightGBM
+run_uuid: 1074378c200342798eed3b36b0591e63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727002821344
+status: 3
+tags: []
+user_id: moealhazmi

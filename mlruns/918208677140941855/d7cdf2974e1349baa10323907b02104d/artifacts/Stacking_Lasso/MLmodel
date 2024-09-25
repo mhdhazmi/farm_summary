@@ -1,0 +1,20 @@
+artifact_path: Stacking_Lasso
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.16.2
+model_size_bytes: 6688106
+model_uuid: 54b9ebab712541cf860b7c366b09617b
+run_id: d7cdf2974e1349baa10323907b02104d
+utc_time_created: '2024-09-22 11:20:55.920462'

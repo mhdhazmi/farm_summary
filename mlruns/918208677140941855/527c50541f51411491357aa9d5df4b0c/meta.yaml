@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moealhazmi/farms_latest_claude/farm_summary/mlruns/918208677140941855/527c50541f51411491357aa9d5df4b0c/artifacts
+end_time: 1727004594192
+entry_point_name: ''
+experiment_id: '918208677140941855'
+lifecycle_stage: active
+run_id: 527c50541f51411491357aa9d5df4b0c
+run_name: MLPRegressor
+run_uuid: 527c50541f51411491357aa9d5df4b0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727004494545
+status: 3
+tags: []
+user_id: moealhazmi

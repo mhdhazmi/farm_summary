@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moealhazmi/farms_latest_claude/farm_summary/mlruns/918208677140941855/37685e50aebf44cca10d2bc7f3715c8a/artifacts
+end_time: 1727004077301
+entry_point_name: ''
+experiment_id: '918208677140941855'
+lifecycle_stage: active
+run_id: 37685e50aebf44cca10d2bc7f3715c8a
+run_name: Stacking_LinearRegression
+run_uuid: 37685e50aebf44cca10d2bc7f3715c8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727004058670
+status: 3
+tags: []
+user_id: moealhazmi

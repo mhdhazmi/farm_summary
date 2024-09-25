@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moealhazmi/farms_latest_claude/farm_summary/mlruns/918208677140941855/04904ff0769a4989b478f189abfbde16/artifacts
+end_time: 1727002821341
+entry_point_name: ''
+experiment_id: '918208677140941855'
+lifecycle_stage: active
+run_id: 04904ff0769a4989b478f189abfbde16
+run_name: XGBoost
+run_uuid: 04904ff0769a4989b478f189abfbde16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727002814332
+status: 3
+tags: []
+user_id: moealhazmi

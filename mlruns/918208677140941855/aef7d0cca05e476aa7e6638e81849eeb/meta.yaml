@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moealhazmi/farms_latest_claude/farm_summary/mlruns/918208677140941855/aef7d0cca05e476aa7e6638e81849eeb/artifacts
+end_time: 1727003755134
+entry_point_name: ''
+experiment_id: '918208677140941855'
+lifecycle_stage: active
+run_id: aef7d0cca05e476aa7e6638e81849eeb
+run_name: Stacking_Ridge
+run_uuid: aef7d0cca05e476aa7e6638e81849eeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727003730999
+status: 3
+tags: []
+user_id: moealhazmi

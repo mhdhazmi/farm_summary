@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moealhazmi/farms_latest_claude/farm_summary/mlruns/918208677140941855/d7c731438ab04c1b9366ac2cf593ee50/artifacts
+end_time: 1727002941569
+entry_point_name: ''
+experiment_id: '918208677140941855'
+lifecycle_stage: active
+run_id: d7c731438ab04c1b9366ac2cf593ee50
+run_name: CatBoost
+run_uuid: d7c731438ab04c1b9366ac2cf593ee50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727002929049
+status: 3
+tags: []
+user_id: moealhazmi
