@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/moealhazmi/farms_latest_claude/farm_summary/mlruns/918208677140941855/5476d18f76fb4b1586630ddb9fcc9084/artifacts
+end_time: 1727263249408
+entry_point_name: ''
+experiment_id: '918208677140941855'
+lifecycle_stage: active
+run_id: 5476d18f76fb4b1586630ddb9fcc9084
+run_name: Random_Forest
+run_uuid: 5476d18f76fb4b1586630ddb9fcc9084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727263243239
+status: 4
+tags: []
+user_id: mohammedalhazmi

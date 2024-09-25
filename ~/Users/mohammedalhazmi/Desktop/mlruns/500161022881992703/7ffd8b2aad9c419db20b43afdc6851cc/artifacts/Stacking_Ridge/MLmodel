@@ -1,0 +1,114 @@
+artifact_path: Stacking_Ridge
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.16.2
+model_size_bytes: 32854360
+model_uuid: bca5e298662247899b0b04d1a888a2b8
+run_id: 7ffd8b2aad9c419db20b43afdc6851cc
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "property_area", "required": true}, {"type":
+    "double", "name": "property_main_type", "required": true}, {"type": "double",
+    "name": "activity_count", "required": true}, {"type": "double", "name": "unique_crop_types_count",
+    "required": true}, {"type": "double", "name": "total_area_hectares", "required":
+    true}, {"type": "double", "name": "productive_trees_count", "required": true},
+    {"type": "double", "name": "protected_house_count", "required": true}, {"type":
+    "double", "name": "plantations_count", "required": true}, {"type": "double", "name":
+    "activity_status_1", "required": true}, {"type": "double", "name": "activity_status_3",
+    "required": true}, {"type": "double", "name": "activity_status_4", "required":
+    true}, {"type": "double", "name": "activity_status_6", "required": true}, {"type":
+    "double", "name": "farm_type_1.0", "required": true}, {"type": "double", "name":
+    "farm_type_2.0", "required": true}, {"type": "double", "name": "farm_type_5.0",
+    "required": true}, {"type": "double", "name": "farm_type_6.0", "required": true},
+    {"type": "double", "name": "farm_type_7.0", "required": true}, {"type": "double",
+    "name": "farm_type_10.0", "required": true}, {"type": "double", "name": "farm_type_11.0",
+    "required": true}, {"type": "double", "name": "main_crop_type_1.0", "required":
+    true}, {"type": "double", "name": "main_crop_type_2.0", "required": true}, {"type":
+    "double", "name": "main_crop_type_3.0", "required": true}, {"type": "double",
+    "name": "main_crop_type_4.0", "required": true}, {"type": "double", "name": "main_crop_type_5.0",
+    "required": true}, {"type": "double", "name": "main_crop_type_6.0", "required":
+    true}, {"type": "double", "name": "main_crop_type_7.0", "required": true}, {"type":
+    "double", "name": "main_crop_type_8.0", "required": true}, {"type": "double",
+    "name": "main_crop_type_9.0", "required": true}, {"type": "double", "name": "main_crop_type_10.0",
+    "required": true}, {"type": "double", "name": "main_crop_type_12.0", "required":
+    true}, {"type": "double", "name": "main_crop_type_13.0", "required": true}, {"type":
+    "double", "name": "main_crop_type_14.0", "required": true}, {"type": "double",
+    "name": "main_crop_type_15.0", "required": true}, {"type": "double", "name": "irrigation_source_1.0",
+    "required": true}, {"type": "double", "name": "irrigation_source_2.0", "required":
+    true}, {"type": "double", "name": "irrigation_source_4.0", "required": true},
+    {"type": "double", "name": "irrigation_source_5.0", "required": true}, {"type":
+    "double", "name": "irrigation_source_6.0", "required": true}, {"type": "double",
+    "name": "irrigation_source_7.0", "required": true}, {"type": "double", "name":
+    "irrigation_source_10.0", "required": true}, {"type": "double", "name": "irrigation_source_12.0",
+    "required": true}, {"type": "double", "name": "irrigation_type_1.0", "required":
+    true}, {"type": "double", "name": "irrigation_type_2.0", "required": true}, {"type":
+    "double", "name": "irrigation_type_3.0", "required": true}, {"type": "double",
+    "name": "irrigation_type_4.0", "required": true}, {"type": "double", "name": "irrigation_type_6.0",
+    "required": true}, {"type": "double", "name": "irrigation_type_7.0", "required":
+    true}, {"type": "double", "name": "farming_season_1.0", "required": true}, {"type":
+    "double", "name": "farming_season_2.0", "required": true}, {"type": "double",
+    "name": "farming_season_3.0", "required": true}, {"type": "double", "name": "farming_season_4.0",
+    "required": true}, {"type": "double", "name": "protected_house_type_1.0", "required":
+    true}, {"type": "double", "name": "protected_house_type_2.0", "required": true},
+    {"type": "double", "name": "protected_house_type_3.0", "required": true}, {"type":
+    "double", "name": "protected_house_type_4.0", "required": true}, {"type": "double",
+    "name": "protected_house_type_6.0", "required": true}, {"type": "double", "name":
+    "protected_house_type_7.0", "required": true}, {"type": "double", "name": "plantations_type_1.0",
+    "required": true}, {"type": "double", "name": "plantations_type_2.0", "required":
+    true}, {"type": "double", "name": "plantations_type_3.0", "required": true}, {"type":
+    "double", "name": "well_possession_type_1", "required": true}, {"type": "double",
+    "name": "well_possession_type_2", "required": true}, {"type": "double", "name":
+    "well_is_active_1", "required": true}, {"type": "double", "name": "well_is_active_2",
+    "required": true}, {"type": "double", "name": "well_irrigation_source_1", "required":
+    true}, {"type": "double", "name": "well_irrigation_source_2", "required": true},
+    {"type": "double", "name": "well_irrigation_source_4", "required": true}, {"type":
+    "double", "name": "well_irrigation_source_5", "required": true}, {"type": "double",
+    "name": "well_irrigation_source_6", "required": true}, {"type": "double", "name":
+    "well_irrigation_source_10", "required": true}, {"type": "double", "name": "well_irrigation_source_12",
+    "required": true}, {"type": "double", "name": "well_irrigation_type_1.0", "required":
+    true}, {"type": "double", "name": "well_irrigation_type_2.0", "required": true},
+    {"type": "double", "name": "well_irrigation_type_3.0", "required": true}, {"type":
+    "double", "name": "well_irrigation_type_4.0", "required": true}, {"type": "double",
+    "name": "well_irrigation_type_6.0", "required": true}, {"type": "double", "name":
+    "well_irrigation_type_7.0", "required": true}, {"type": "double", "name": "well_count",
+    "required": true}, {"type": "double", "name": "well_possession_type_1_percentage",
+    "required": true}, {"type": "double", "name": "well_possession_type_2_percentage",
+    "required": true}, {"type": "double", "name": "well_is_active_1_percentage", "required":
+    true}, {"type": "double", "name": "well_is_active_2_percentage", "required": true},
+    {"type": "double", "name": "well_irrigation_source_1_percentage", "required":
+    true}, {"type": "double", "name": "well_irrigation_source_2_percentage", "required":
+    true}, {"type": "double", "name": "well_irrigation_source_4_percentage", "required":
+    true}, {"type": "double", "name": "well_irrigation_source_5_percentage", "required":
+    true}, {"type": "double", "name": "well_irrigation_source_6_percentage", "required":
+    true}, {"type": "double", "name": "well_irrigation_source_10_percentage", "required":
+    true}, {"type": "double", "name": "well_irrigation_source_12_percentage", "required":
+    true}, {"type": "double", "name": "well_irrigation_type_1.0_percentage", "required":
+    true}, {"type": "double", "name": "well_irrigation_type_2.0_percentage", "required":
+    true}, {"type": "double", "name": "well_irrigation_type_3.0_percentage", "required":
+    true}, {"type": "double", "name": "well_irrigation_type_4.0_percentage", "required":
+    true}, {"type": "double", "name": "well_irrigation_type_6.0_percentage", "required":
+    true}, {"type": "double", "name": "well_irrigation_type_7.0_percentage", "required":
+    true}, {"type": "double", "name": "sprinklers_count", "required": true}, {"type":
+    "double", "name": "sprinklers_count_kw", "required": true}, {"type": "double",
+    "name": "trees_per_hectare", "required": true}, {"type": "double", "name": "irrigation_intensity",
+    "required": true}, {"type": "double", "name": "well_density", "required": true},
+    {"type": "double", "name": "area_per_activity", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-09-25 12:06:26.752591'
