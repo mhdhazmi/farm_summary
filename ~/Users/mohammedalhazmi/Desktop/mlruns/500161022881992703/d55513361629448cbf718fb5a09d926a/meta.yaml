@@ -1,5 +1,5 @@
 artifact_uri: /Users/mohammedalhazmi/Library/CloudStorage/OneDrive-MinistryofEnergy/Agriculture_Load_data_2/Agriculture_Load_data/farms_latest_claude/farm_summary/~/Users/mohammedalhazmi/Desktop/mlruns/500161022881992703/d55513361629448cbf718fb5a09d926a/artifacts
-end_time: null
+end_time: 1727266318886
 entry_point_name: ''
 experiment_id: '500161022881992703'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1727266187511
-status: 1
+status: 3
 tags: []
 user_id: mohammedalhazmi

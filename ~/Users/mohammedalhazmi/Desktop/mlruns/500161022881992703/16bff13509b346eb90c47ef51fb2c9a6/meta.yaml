@@ -1,0 +1,15 @@
+artifact_uri: /Users/mohammedalhazmi/Library/CloudStorage/OneDrive-MinistryofEnergy/Agriculture_Load_data_2/Agriculture_Load_data/farms_latest_claude/farm_summary/~/Users/mohammedalhazmi/Desktop/mlruns/500161022881992703/16bff13509b346eb90c47ef51fb2c9a6/artifacts
+end_time: 1727335678635
+entry_point_name: ''
+experiment_id: '500161022881992703'
+lifecycle_stage: active
+run_id: 16bff13509b346eb90c47ef51fb2c9a6
+run_name: Stacking_LinearRegression
+run_uuid: 16bff13509b346eb90c47ef51fb2c9a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727335664729
+status: 3
+tags: []
+user_id: mohammedalhazmi

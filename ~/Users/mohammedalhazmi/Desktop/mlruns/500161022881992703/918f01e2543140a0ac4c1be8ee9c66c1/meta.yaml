@@ -1,0 +1,15 @@
+artifact_uri: /Users/mohammedalhazmi/Library/CloudStorage/OneDrive-MinistryofEnergy/Agriculture_Load_data_2/Agriculture_Load_data/farms_latest_claude/farm_summary/~/Users/mohammedalhazmi/Desktop/mlruns/500161022881992703/918f01e2543140a0ac4c1be8ee9c66c1/artifacts
+end_time: 1727266742961
+entry_point_name: ''
+experiment_id: '500161022881992703'
+lifecycle_stage: active
+run_id: 918f01e2543140a0ac4c1be8ee9c66c1
+run_name: Stacking_Lasso
+run_uuid: 918f01e2543140a0ac4c1be8ee9c66c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727266732908
+status: 3
+tags: []
+user_id: mohammedalhazmi

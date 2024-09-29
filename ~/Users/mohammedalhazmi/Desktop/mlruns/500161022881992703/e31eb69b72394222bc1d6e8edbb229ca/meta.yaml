@@ -1,0 +1,15 @@
+artifact_uri: /Users/mohammedalhazmi/Library/CloudStorage/OneDrive-MinistryofEnergy/Agriculture_Load_data_2/Agriculture_Load_data/farms_latest_claude/farm_summary/~/Users/mohammedalhazmi/Desktop/mlruns/500161022881992703/e31eb69b72394222bc1d6e8edbb229ca/artifacts
+end_time: 1727266345751
+entry_point_name: ''
+experiment_id: '500161022881992703'
+lifecycle_stage: active
+run_id: e31eb69b72394222bc1d6e8edbb229ca
+run_name: XGBoost
+run_uuid: e31eb69b72394222bc1d6e8edbb229ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727266340777
+status: 3
+tags: []
+user_id: mohammedalhazmi

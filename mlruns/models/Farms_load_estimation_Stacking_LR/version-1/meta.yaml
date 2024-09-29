@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727335537735
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1727335772758
+name: Farms_load_estimation_Stacking_LR
+run_id: 86e942b4085e458e9f3317730bdb8c74
+run_link: ''
+source: file:///Users/moealhazmi/farms_latest_claude/farm_summary/mlruns/918208677140941855/86e942b4085e458e9f3317730bdb8c74/artifacts/Stacking_LinearRegression
+status: READY
+status_message: null
+storage_location: file:///Users/moealhazmi/farms_latest_claude/farm_summary/mlruns/918208677140941855/86e942b4085e458e9f3317730bdb8c74/artifacts/Stacking_LinearRegression
+user_id: null
+version: 1
