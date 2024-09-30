@@ -1,0 +1,15 @@
+artifact_uri: /Users/mohammedalhazmi/Library/CloudStorage/OneDrive-MinistryofEnergy/Agriculture_Load_data_2/Agriculture_Load_data/farms_latest_claude/farm_summary/~/Users/mohammedalhazmi/Desktop/mlruns/500161022881992703/99f075f1797b49c4a58b7902f099d386/artifacts
+end_time: 1727597891918
+entry_point_name: ''
+experiment_id: '500161022881992703'
+lifecycle_stage: active
+run_id: 99f075f1797b49c4a58b7902f099d386
+run_name: Stacking_Ridge
+run_uuid: 99f075f1797b49c4a58b7902f099d386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727597877352
+status: 3
+tags: []
+user_id: mohammedalhazmi

@@ -1,0 +1,15 @@
+artifact_uri: /Users/mohammedalhazmi/Library/CloudStorage/OneDrive-MinistryofEnergy/Agriculture_Load_data_2/Agriculture_Load_data/farms_latest_claude/farm_summary/~/Users/mohammedalhazmi/Desktop/mlruns/500161022881992703/8cf8301210194f53a26c4d2c2697bfcf/artifacts
+end_time: 1727597630246
+entry_point_name: ''
+experiment_id: '500161022881992703'
+lifecycle_stage: active
+run_id: 8cf8301210194f53a26c4d2c2697bfcf
+run_name: LightGBM
+run_uuid: 8cf8301210194f53a26c4d2c2697bfcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727597555076
+status: 3
+tags: []
+user_id: mohammedalhazmi

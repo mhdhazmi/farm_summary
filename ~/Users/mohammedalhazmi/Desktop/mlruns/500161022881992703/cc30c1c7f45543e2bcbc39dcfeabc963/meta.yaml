@@ -1,0 +1,15 @@
+artifact_uri: /Users/mohammedalhazmi/Library/CloudStorage/OneDrive-MinistryofEnergy/Agriculture_Load_data_2/Agriculture_Load_data/farms_latest_claude/farm_summary/~/Users/mohammedalhazmi/Desktop/mlruns/500161022881992703/cc30c1c7f45543e2bcbc39dcfeabc963/artifacts
+end_time: 1727597550255
+entry_point_name: ''
+experiment_id: '500161022881992703'
+lifecycle_stage: active
+run_id: cc30c1c7f45543e2bcbc39dcfeabc963
+run_name: Random_Forest
+run_uuid: cc30c1c7f45543e2bcbc39dcfeabc963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727597542509
+status: 3
+tags: []
+user_id: mohammedalhazmi
